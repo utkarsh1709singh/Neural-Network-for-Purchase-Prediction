@@ -9,7 +9,7 @@ This project demonstrates the implementation of a neural network for predicting 
 * Model Evaluation: The trained model is evaluated on a test set to assess its accuracy in predicting purchase behavior.
 * Visualization: The decision boundary of the neural network model is visualized over the feature space of visit duration and pages visited. The contour plot shows the decision boundary separating the areas where purchases are likely from those where purchases are unlikely.
 
-##Usage
+## Usage
 To run the project and train the neural network model:
 
 * Clone this repository to your local machine.
